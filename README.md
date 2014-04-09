@@ -45,8 +45,7 @@ Create a collection by using the same data-preview name like the example below
 
 Init the plugin:
 
-<code>
-$(document).ready(function() {<br />
+<code>$(document).ready(function() {<br />
 &nbsp;&nbsp;$('*[data-preview]').descBox({ slideShowRepeat: true });<br />
 });
 </code>
